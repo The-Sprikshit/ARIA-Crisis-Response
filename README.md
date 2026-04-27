@@ -63,8 +63,8 @@ Crisis Resolved → AI Learning Report
        ▼                ▼                     ▼
 ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐
 │  Firebase   │  │  FastAPI    │  │   Three Portals     │
-│  Realtime   │◄─┤  Backend   ├─►│  Manager | Staff    │
-│  Database   │  │            │  │  Guest              │
+│  Realtime   │◄─┤  Backend    ├─►│  Manager | Staff    │
+│  Database   │  │             │  │  Guest              │
 └─────────────┘  └─────┬───────┘  └─────────────────────┘
                        │
               ┌────────┴────────┐
