@@ -181,7 +181,7 @@ POST /guest/register
   "room": "room_412",
   "name": "Demo Guest",
   "phone": "+91XXXXXXXXXX",
-  "language": "hi",
+  "language": "English",
   "floor": 4
 }
 
